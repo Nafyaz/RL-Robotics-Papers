@@ -1,2 +1,0 @@
-1. SARSA
-2. DDQN
