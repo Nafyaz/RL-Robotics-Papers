@@ -11,12 +11,14 @@
             "id": "c9fc4e66a67920f1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "RL Papers/2. PPO/Proximal Policy Optimization Algorithms.pdf"
+                "file": "RL Papers/1. DQN/DQN Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Proximal Policy Optimization Algorithms"
+              "icon": "lucide-file",
+              "title": "DQN Notes"
             }
           },
           {
@@ -178,16 +180,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a6a53cd21f99de1",
+  "active": "c9fc4e66a67920f1",
   "lastOpenFiles": [
-    "RL Papers/2. PPO/Untitled.md",
+    "RL Papers/2. PPO/PPO Notes.md",
+    "RL Papers/1. DQN/DQN Notes.md",
+    "RL Papers/1. DQN/images",
+    "General Paper Reading/How to Read a Paper.md",
+    "RL Papers/2. PPO/Proximal Policy Optimization Algorithms.pdf",
     "Templates/Note Template.md",
     "RL Papers/2. PPO/Notes.md",
     "Templates",
-    "RL Papers/1. DQN/DQN Notes.md",
     "RL Papers/1. DQN/Human-level control through deep reinforcement learning.pdf",
-    "General Paper Reading/How to Read a Paper.md",
-    "RL Papers/1. DQN/Pasted image 20251009172753.png",
+    "RL Papers/1. DQN/images/Pasted image 20251009172753.png",
     "Tracking.md.md",
     "General Paper Reading/HowtoReadPaper.pdf",
     "General Paper Reading/Reading-and-Annotating.pdf",
