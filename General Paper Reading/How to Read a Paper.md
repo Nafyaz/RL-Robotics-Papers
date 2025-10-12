@@ -14,19 +14,19 @@ My perfectly imperfect note-taking system for ML papers: https://mindfulmodeler.
 
 ## Do multiple passes of these for a paper
 
-1. First Part
+1. Write summaries and your own thoughts for each paragraph in this order (skip math)
+2. First Part
 	1. Abstract
 	2. Figures (table / chart / diagram)
 2. Second Part (skip related work)
 	1. Introduction
 	2. Conclusion
-	3. Figures
 3. Third Part
-	1. Discussion
+	1. Methodology
 	2. Results
-4. Read full + write summaries and my own thoughts for each paragraph (skip math)
-5. Read full + re-derive math from scratch (skip the parts that don't make sense)
-6. 
+	3. Discussion
+4. Read full + re-derive math from scratch (skip the parts that don't make sense)
+5. Write critics
 
 ## Ask yourself these questions (write down answers)
 
