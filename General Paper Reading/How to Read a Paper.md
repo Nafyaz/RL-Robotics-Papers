@@ -3,6 +3,9 @@ Remember, reading paper is a marathon. You need to read and absorb a paper every
 Andrew ng on reading paper: https://www.youtube.com/watch?v=733m6qBH-jI
 My perfectly imperfect note-taking system for ML papers: https://mindfulmodeler.substack.com/p/my-perfectly-imperfect-note-taking
 
+: How do I know what to highlight / focus / give importance?
+: Welp, at first you write / highlight what you think is important. After doing this for many papers, you will start to understand what's important and what's not. After about a month return back to old read papers and see how differently you would highlight / take notes.
+
 ## Sections that matter
 1. Abstract
 2. Introduction
@@ -14,19 +17,20 @@ My perfectly imperfect note-taking system for ML papers: https://mindfulmodeler.
 
 ## Do multiple passes of these for a paper
 
-1. Write summaries and your own thoughts for each paragraph in this order (skip math)
-2. First Part
-	1. Abstract
-	2. Figures (table / chart / diagram)
-2. Second Part (skip related work)
-	1. Introduction
-	2. Conclusion
-3. Third Part
-	1. Methodology
-	2. Results
-	3. Discussion
-4. Read full + re-derive math from scratch (skip the parts that don't make sense)
-5. Write critics
+Write summaries and your own thoughts for each paragraph in this order
+1. Abstract
+2. Figures (table / chart / diagram)
+3. Introduction
+4. Conclusion
+5. Methodology
+6. Results
+7. Discussion
+
+Deep dive
+1. Re-derive math from scratch (skip the parts that don't make sense)
+2. Download and run code
+3. Re-implement from scratch
+4. Write critics
 
 ## Ask yourself these questions (write down answers)
 
@@ -34,11 +38,6 @@ My perfectly imperfect note-taking system for ML papers: https://mindfulmodeler.
 2. What were the key elements of the approach?
 3. What can you use yourself?
 4. What other references do you want to follow?
-
-## Code
-
-1. Download and run code
-2. Re-implement from scratch
 
 ## Taking Notes
 1. Summarize all paragraphs (this will force you to think deeply)
